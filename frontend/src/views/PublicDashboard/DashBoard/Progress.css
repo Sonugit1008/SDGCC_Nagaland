@@ -1,0 +1,14 @@
+.progress_vertical {
+  height: 40px;
+  -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+  transform: rotate(-90deg);
+}
+
+.back_img {
+  background-image: url("/dashboard/assets/img/sdggrey.png");
+  background-repeat: repeat-y;
+  background-size: contain;
+}
+.button {
+  background-color: #fff;
+}

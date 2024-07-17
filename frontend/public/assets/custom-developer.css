@@ -1,0 +1,44 @@
+.pass-wrapper {
+    position: relative;
+  }
+  
+.pass-wrapper i {
+  position: absolute;
+  top: 38%;
+  right: 6%;
+}
+
+.pass-wrapper i:hover {
+  color: #e2863b;
+  cursor: pointer;
+}
+
+.pagination {
+  float: right;
+}
+
+.pagination span {
+  margin-top: 6px;
+  font-size: 16px;
+  margin-right: 14px
+}
+
+.pagination span input {
+  margin-left: 6px
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.user-list-actions {
+  display: none;
+}
+
+.user-list-tr:hover .user-list-actions{  
+  display: block !important;
+}
+
+.compliance-card-image {
+  height: 350px;
+}
